@@ -2,7 +2,7 @@
 
 This is not directed at specific applicants, this is just tips to make the story-writing and character writing process easier and things I think about when making my own apps
 
-## 1 ) *The more skilled and powerful someone is, the more narrative basis is required.*
+## 1 ) The more skilled and powerful someone is, the more narrative basis is required.
 
 When I create characters with specialties (talents they are really good at) I usually limit it to one major specialty and one minor 'knack'. For example, Madame Khorasani had a major specialty in Electronics but her minor specialty was in Tailoring.
 
@@ -17,15 +17,15 @@ If I had a character who was extremely good at both, the characters age will nee
 
 This is all to say that your characters backstory can be scaffolded on the time and experience required to become the concept you imagine starting with.
 
-## 2 ) *Length isn't always Strength*
+## 2 ) Length isn't always Strength
 
 When writing a backstory, sometimes shorter major event vignettes from the lives of our character's can be just as expository as a masterfully drawn out narrative. Pluuuus, if you're an app handler it might be a nice break from long narratives. Just make sure that your vignettes/story explains your character's major skills and accounts for weaknesses and you'll be a-okay!
 
-## 3 ) *Can you hear their voice?*
+## 3 ) Can you hear their voice?
 
 Time for *abstract advice.* When designing a character, it's really important to imagine what they sound like. What word choices they opt for. Ask yourself, can you hear them? What do they sound like? When you write vignettes or a story, it becomes easier to imagine and relay reactions from the character if you know what their tone is like, their accent, and their word choice.
 
-## 4 ) *CHOO CHOO! DEFENSE MECHANISMS COMIN' THROUGH!*
+## 4 ) CHOO CHOO! DEFENSE MECHANISMS COMIN' THROUGH!
 
 Ahem... Turns out, being in a constantly traumatizing environment (Zombie Apocalypse) might actually not be the best for your character's mental well-being. But this constant stress effects different types of folks differently based on their upbringing, relative security, and pre-existing conditions. The key thing to think about here is defense mechanisms
 
@@ -39,6 +39,8 @@ So defense mechanisms, huh. There's healthy ones and not so healthy ones. People
 
 **So. What are your character's Defense Mechanisms? What do they do to make the pain go away?**
 
-![DefenseMechanismsDefinitions](https://github.com/LockdownRP-PZ/LockdownRP/blob/main/Images/DefenseMechanismsDefinitions.png)
+![DefenseMechanismsDefinitions](https://github.com/LockdownRP-PZ/LockdownRP/blob/master/Images/DefenseMechanismsDefinitions.png)
 
-## 5 ) *Coming soon: Kill Your Darlings*
+## 5 ) Coming soon: Kill Your Darlings
+
+![KillYourDarlings](https://github.com/LockdownRP-PZ/LockdownRP/blob/master/Images/KillYourDarlings.png)
