@@ -29,7 +29,7 @@ Time for *abstract advice.* When designing a character, it's really important to
 
 Ahem... Turns out, being in a constantly traumatizing environment (Zombie Apocalypse) might actually not be the best for your character's mental well-being. But this constant stress effects different types of folks differently based on their upbringing, relative security, and pre-existing conditions. The key thing to think about here is defense mechanisms
 
-*[https://en.wikipedia.org/wiki/Defence_mechanism](Sir Wikipedia) tells us Defense Mechanisms are psychological operations that function to protect a person from anxiety-producing thoughts and feelings related to internal conflicts and outer stressors.*
+*[Sir Wikipedia](https://en.wikipedia.org/wiki/Defence_mechanism) tells us Defense Mechanisms are psychological operations that function to protect a person from anxiety-producing thoughts and feelings related to internal conflicts and outer stressors.*
 
 A character whose defense mechanism is Avoidance might range from avoiding topics in discussion that cause stress to actively distracting themselves and others from topics that cause the anxiety to spike. Escapism is similar and it often results in a character obsessing over a hobby to distract from an uncomfortable reality or taking up drug or alcohol addiction. Generally any character with these tendencies usually has a core reason for having begun them, something their numbing away or avoiding. 
 
@@ -39,8 +39,16 @@ So defense mechanisms, huh. There's healthy ones and not so healthy ones. People
 
 **So. What are your character's Defense Mechanisms? What do they do to make the pain go away?**
 
-![DefenseMechanismsDefinitions](https://github.com/LockdownRP-PZ/LockdownRP/blob/master/Images/DefenseMechanismsDefinitions.png)
+* *Repression*: when a feeling is hidden and forced from the consciousness to the unconscious because it is seen as socially unacceptable
+* *Regression*: falling back into an early state of mental/physical development seen as "less demanding and safer"[19](https://en.wikipedia.org/wiki/Defence_mechanism#cite_note-Hock,_Roger_R_2013-19)
+* *Projection*: possessing a feeling that is deemed as socially unacceptable and instead of facing it, that feeling or "unconscious urge" is seen in the actions of other people[19](https://en.wikipedia.org/wiki/Defence_mechanism#cite_note-Hock,_Roger_R_2013-19)
+* *Reaction formation*: acting the opposite way that the unconscious instructs a person to behave, "often exaggerated and obsessive". For example, if a wife is infatuated with a man who is not her husband, reaction formation may cause her to – rather than cheat – become obsessed with showing her husband signs of love and affection.[19](https://en.wikipedia.org/wiki/Defence_mechanism#cite_note-Hock,_Roger_R_2013-19)
+* *Sublimation*: seen as the most acceptable of the mechanisms, an expression of anxiety in socially acceptable ways[19](https://en.wikipedia.org/wiki/Defence_mechanism#cite_note-Hock,_Roger_R_2013-19)
 
 ## 5 ) Coming soon: Kill Your Darlings
 
-![KillYourDarlings](https://github.com/LockdownRP-PZ/LockdownRP/blob/master/Images/KillYourDarlings.png)
+> The expression "kill your darlings" is a writing advice that encourages writers to remove or revise any beloved or cherished elements of their work that may not be serving the story or may be slowing it down. 
+> 
+> This advice is often used in creative writing, where writers may become attached to certain characters, scenes, or phrases that they feel are particularly well-written or meaningful. However, if these elements do not serve the overall purpose of the story, they may need to be "killed" or cut from the final draft. 
+> 
+> The expression is attributed to various authors and is often used to convey the importance of editing and revision in the writing process. Essentially, it means being willing to let go of anything that may be hindering the effectiveness of the story, even if it's something that the writer may have a personal attachment to.
