@@ -29,7 +29,7 @@ Time for *abstract advice.* When designing a character, it's really important to
 
 Ahem... Turns out, being in a constantly traumatizing environment (Zombie Apocalypse) might actually not be the best for your character's mental well-being. But this constant stress effects different types of folks differently based on their upbringing, relative security, and pre-existing conditions. The key thing to think about here is defense mechanisms
 
-`Sir Wikipedia tells us Defense Mechanisms are psychological operations that function to protect a person from anxiety-producing thoughts and feelings related to internal conflicts and outer stressors.`
+*[https://en.wikipedia.org/wiki/Defence_mechanism](Sir Wikipedia) tells us Defense Mechanisms are psychological operations that function to protect a person from anxiety-producing thoughts and feelings related to internal conflicts and outer stressors.*
 
 A character whose defense mechanism is Avoidance might range from avoiding topics in discussion that cause stress to actively distracting themselves and others from topics that cause the anxiety to spike. Escapism is similar and it often results in a character obsessing over a hobby to distract from an uncomfortable reality or taking up drug or alcohol addiction. Generally any character with these tendencies usually has a core reason for having begun them, something their numbing away or avoiding. 
 
