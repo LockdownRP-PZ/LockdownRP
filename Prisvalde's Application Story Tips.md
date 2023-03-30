@@ -40,10 +40,10 @@ So defense mechanisms, huh. There's healthy ones and not so healthy ones. People
 **So. What are your character's Defense Mechanisms? What do they do to make the pain go away?**
 
 * *Repression*: when a feeling is hidden and forced from the consciousness to the unconscious because it is seen as socially unacceptable
-* *Regression*: falling back into an early state of mental/physical development seen as "less demanding and safer"[19](https://en.wikipedia.org/wiki/Defence_mechanism#cite_note-Hock,_Roger_R_2013-19)
-* *Projection*: possessing a feeling that is deemed as socially unacceptable and instead of facing it, that feeling or "unconscious urge" is seen in the actions of other people[19](https://en.wikipedia.org/wiki/Defence_mechanism#cite_note-Hock,_Roger_R_2013-19)
-* *Reaction formation*: acting the opposite way that the unconscious instructs a person to behave, "often exaggerated and obsessive". For example, if a wife is infatuated with a man who is not her husband, reaction formation may cause her to – rather than cheat – become obsessed with showing her husband signs of love and affection.[19](https://en.wikipedia.org/wiki/Defence_mechanism#cite_note-Hock,_Roger_R_2013-19)
-* *Sublimation*: seen as the most acceptable of the mechanisms, an expression of anxiety in socially acceptable ways[19](https://en.wikipedia.org/wiki/Defence_mechanism#cite_note-Hock,_Roger_R_2013-19)
+* *Regression*: falling back into an early state of mental/physical development seen as "less demanding and safer"<sup>[19](https://en.wikipedia.org/wiki/Defence_mechanism#cite_note-Hock,_Roger_R_2013-19)</sup>
+* *Projection*: possessing a feeling that is deemed as socially unacceptable and instead of facing it, that feeling or "unconscious urge" is seen in the actions of other people<sup>[19](https://en.wikipedia.org/wiki/Defence_mechanism#cite_note-Hock,_Roger_R_2013-19)</sup>
+* *Reaction formation*: acting the opposite way that the unconscious instructs a person to behave, "often exaggerated and obsessive". For example, if a wife is infatuated with a man who is not her husband, reaction formation may cause her to – rather than cheat – become obsessed with showing her husband signs of love and affection.<sup>[19](https://en.wikipedia.org/wiki/Defence_mechanism#cite_note-Hock,_Roger_R_2013-19)</sup>
+* *Sublimation*: seen as the most acceptable of the mechanisms, an expression of anxiety in socially acceptable ways<sup>[19](https://en.wikipedia.org/wiki/Defence_mechanism#cite_note-Hock,_Roger_R_2013-19)</sup>
 
 ## 5 ) Coming soon: Kill Your Darlings
 
