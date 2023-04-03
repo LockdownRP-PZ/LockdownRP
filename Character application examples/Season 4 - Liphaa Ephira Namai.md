@@ -88,9 +88,9 @@
 > I finally got somewhere... close to safe. I can sleep without fear. And I have friends here. I live in comfort. Just, have to be cautious. But I think it's like that everywhere now. Nowhere is really all that safe... But you did your best, and it was worth it, and I did my best, and it was worth it. That was all that mattered right? 
 > 
 > I'll live for as long as I can. For you. For Mom and Dad. For Levi. But when I die, I'll be reunited with you all, right? So... it's a win win in the end. I won, I survived for as long as I could, and I'll be with you. No matter what, it will have been worth it. Thank you, I love you, and I miss you. 
-
+> 
 > It's worth it, 
->         Liphaa 
+> .        Liphaa 
 
 ### 12. What do you expect out of this server in terms of community and roleplay?
 > This question was on my verification, but, I have really high hopes. It looks like it's been going for a while- and it looks like it's going to keep going on. Which is really cool. I love long term roleplays and hope to see it keep going on, constantly evolving and growing. 
