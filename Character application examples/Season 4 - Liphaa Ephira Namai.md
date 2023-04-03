@@ -90,6 +90,7 @@
 > I'll live for as long as I can. For you. For Mom and Dad. For Levi. But when I die, I'll be reunited with you all, right? So... it's a win win in the end. I won, I survived for as long as I could, and I'll be with you. No matter what, it will have been worth it. Thank you, I love you, and I miss you. 
 > 
 > It's worth it, 
+> 
 > Liphaa 
 
 ### 12. What do you expect out of this server in terms of community and roleplay?
