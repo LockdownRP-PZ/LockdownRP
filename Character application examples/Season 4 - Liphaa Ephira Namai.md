@@ -90,8 +90,7 @@
 > I'll live for as long as I can. For you. For Mom and Dad. For Levi. But when I die, I'll be reunited with you all, right? So... it's a win win in the end. I won, I survived for as long as I could, and I'll be with you. No matter what, it will have been worth it. Thank you, I love you, and I miss you. 
 > 
 > It's worth it, 
->
->         Liphaa 
+> Liphaa 
 
 ### 12. What do you expect out of this server in terms of community and roleplay?
 > This question was on my verification, but, I have really high hopes. It looks like it's been going for a while- and it looks like it's going to keep going on. Which is really cool. I love long term roleplays and hope to see it keep going on, constantly evolving and growing. 
