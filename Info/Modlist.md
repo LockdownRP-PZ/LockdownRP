@@ -14,7 +14,7 @@ Subscribe to the following Steam collection to start downloading the mods before
 ## Character build mods
 
 - Simple Overhaul: Traits and Occupations (SOTO): https://steamcommunity.com/sharedfiles/filedetails/?id=2840805724
---- The dynamic trait feature of the mod is disabled. Traits cannot be dynamically earned or removed.
+  - The dynamic trait feature of the mod is disabled. Traits cannot be dynamically earned or removed.
 - Blind Trait Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=546189296
 - DeformedLegTrait: https://steamcommunity.com/sharedfiles/filedetails/?id=2837261072
 - Neurodiverse Traits: https://steamcommunity.com/sharedfiles/filedetails/?id=2754581597
@@ -29,11 +29,11 @@ Subscribe to the following Steam collection to start downloading the mods before
 __Take special note of the **Skill Limiter** mod. Here's how it works:__
 
 - Crafting and survival skills are capped depending on your starting points:
-0 = 5; 1 = 7; 2 = 9; 3 = 10;
+  0 = 5; 1 = 7; 2 = 9; 3 = 10;
 - Weapons skills are capped similarly, but to a lesser extent:
-0 = 7; 1 = 9; 2 = 10;
+  0 = 7; 1 = 9; 2 = 10;
 - Agility skills (sprint, sneak, nimble, lightfooted) are capped to an even lesser extent:
-0 = 9; 1 = 10
+  0 = 9; 1 = 10
 
 ## Gameplay and RP mods
 
@@ -115,7 +115,7 @@ __Take special note of the **Skill Limiter** mod. Here's how it works:__
 - RV Interior: https://steamcommunity.com/workshop/filedetails/?id=2822286426
 - Tread's Water Tank Trucks: https://steamcommunity.com/sharedfiles/filedetails/?id=2719592131
 - Containers: https://steamcommunity.com/sharedfiles/filedetails/?id=2625625421
-...and lots of individual vehicle mods. 
+- ...and lots of individual vehicle mods. 
 
 
 ## Building and crafting mods
