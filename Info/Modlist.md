@@ -1,4 +1,4 @@
-![Modlist](https://github.com/LockdownRP-PZ/LockdownRP/blob/main/Images/Modlist.png)
+![Modlist](https://github.com/LockdownRP-PZ/LockdownRP/blob/master/Images/Modlist.png)
 
 # Lockdown RP's official Mod list.
 
