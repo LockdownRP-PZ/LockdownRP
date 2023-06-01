@@ -42,7 +42,6 @@ __Take special note of the **Skill Limiter** mod. Here's how it works:__
 | ------------------------------------------------- | ----------------------------------------------------------------- |
 | Scent of Blood                                    | https://steamcommunity.com/sharedfiles/filedetails/?id=2789145726 |
 | Random Zombies - Day and Night                    | https://steamcommunity.com/sharedfiles/filedetails/?id=2888099799 |
-| zRe Vaccine ReMod                                 | https://steamcommunity.com/sharedfiles/filedetails/?id=2914364562 |
 | Buffy's Roleplay Chat                             | https://steamcommunity.com/sharedfiles/filedetails/?id=2688851521 |
 | Buffy's Character Bios                            | https://steamcommunity.com/sharedfiles/filedetails/?id=2755000912 |
 | Keep That Radio On                                | https://steamcommunity.com/sharedfiles/filedetails/?id=2818541726 |
