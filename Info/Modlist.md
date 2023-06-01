@@ -42,7 +42,7 @@ __Take special note of the **Skill Limiter** mod. Here's how it works:__
 | ------------------------------------------------- | ----------------------------------------------------------------- |
 | Scent of Blood                                    | https://steamcommunity.com/sharedfiles/filedetails/?id=2789145726 |
 | Random Zombies - Day and Night                    | https://steamcommunity.com/sharedfiles/filedetails/?id=2888099799 |
-| Antibodies                                        | https://steamcommunity.com/sharedfiles/filedetails/?id=2392676812 |
+| zRe Vaccine ReMod                                 | https://steamcommunity.com/sharedfiles/filedetails/?id=2914364562 |
 | Buffy's Roleplay Chat                             | https://steamcommunity.com/sharedfiles/filedetails/?id=2688851521 |
 | Buffy's Character Bios                            | https://steamcommunity.com/sharedfiles/filedetails/?id=2755000912 |
 | Keep That Radio On                                | https://steamcommunity.com/sharedfiles/filedetails/?id=2818541726 |
@@ -52,6 +52,13 @@ __Take special note of the **Skill Limiter** mod. Here's how it works:__
 | Vehicle Repair Overhaul                           | https://steamcommunity.com/sharedfiles/filedetails/?id=2757712197 |
 | Rebalanced Prop Moving                            | https://steamcommunity.com/sharedfiles/filedetails/?id=2699828474 |
 | Fire Resistance                                   | https://steamcommunity.com/sharedfiles/filedetails/?id=2863836591 |
+| Tuck and Roll                                     | https://steamcommunity.com/sharedfiles/filedetails/?id=2832401837 |
+| Tile Fixes                                        | https://steamcommunity.com/sharedfiles/filedetails/?id=2961722002 |
+| True Alert Sounds (no replace)                    | https://steamcommunity.com/sharedfiles/filedetails/?id=2847593195 |
+| Dynamic Mining                                    | https://steamcommunity.com/sharedfiles/filedetails/?id=2963057869 |
+| Better Lockpicking                                | https://steamcommunity.com/sharedfiles/filedetails/?id=2929123989 |
+| More Lock - key and lock management system        | https://steamcommunity.com/sharedfiles/filedetails/?id=2738370718 |
+| Reduced Weight Walkie Talkies                     | https://steamcommunity.com/sharedfiles/filedetails/?id=2981090458 |
 
 ## Animation mods
 
@@ -80,6 +87,9 @@ __Take special note of the **Skill Limiter** mod. Here's how it works:__
 | Ellie's Tattoo Parlor                             | https://steamcommunity.com/sharedfiles/filedetails/?id=2735059209 |
 | Even More Everything Colors                       | https://steamcommunity.com/sharedfiles/filedetails/?id=2726792138 |
 | Invisible Clothing Patches                        | https://steamcommunity.com/sharedfiles/filedetails/?id=2464748152 |
+| Simple Character Retextures                       | https://steamcommunity.com/sharedfiles/filedetails/?id=2803364788 |
+| Dirtiness Replacer                                | https://steamcommunity.com/sharedfiles/filedetails/?id=2941368238 |
+| Tariqs Beards                                     | https://steamcommunity.com/sharedfiles/filedetails/?id=2962908954 |
 
 ## Armor & clothing mods
 
@@ -93,7 +103,7 @@ __Take special note of the **Skill Limiter** mod. Here's how it works:__
 | Military Ponchos NERFED                           | https://steamcommunity.com/sharedfiles/filedetails/?id=2727063344 |
 | DIVE Armor Pack                                   | https://steamcommunity.com/sharedfiles/filedetails/?id=2796659476 |
 | Yaki's Makeshift Clothing                         | https://steamcommunity.com/sharedfiles/filedetails/?id=2827080218 |
-| The Unlimited (w/ SWF skin addon)                 | https://steamcommunity.com/sharedfiles/filedetails/?id=2709502667 |
+| The Unlimited                                     | https://steamcommunity.com/sharedfiles/filedetails/?id=2709502667 |
 | Boots Expanded                                    | https://steamcommunity.com/sharedfiles/filedetails/?id=2850935956 |
 | Spongie's Clothing                                | https://steamcommunity.com/sharedfiles/filedetails/?id=2684285534 |
 | Undead Survivor                                   | https://steamcommunity.com/sharedfiles/filedetails/?id=2713921292 |
@@ -106,14 +116,14 @@ __Take special note of the **Skill Limiter** mod. Here's how it works:__
 | Bushcraft Gear - Tools                            | https://steamcommunity.com/sharedfiles/filedetails/?id=2423906082 |
 | Bushcraft Gear - Rare weapons                     | https://steamcommunity.com/sharedfiles/filedetails/?id=2432621382 |
 | Donazo's Fine Fisticuffs                          | https://steamcommunity.com/sharedfiles/filedetails/?id=2860974747 |
-| Firearms B41                                      | https://steamcommunity.com/sharedfiles/filedetails/?id=2256623447 |
 | Kitsune's Crossbows                               | https://steamcommunity.com/sharedfiles/filedetails/?id=2572385719 |
 | Lactose Crossbows                                 | https://steamcommunity.com/sharedfiles/filedetails/?id=1901390863 |
 | More Pole Weapons                                 | https://steamcommunity.com/sharedfiles/filedetails/?id=1895522524 |
 | Black Smith's Medieval Weapons                    | https://steamcommunity.com/sharedfiles/filedetails/?id=2821065054 |
 | Simple Overhaul : Blades and Spears (SOBS)        | https://steamcommunity.com/sharedfiles/filedetails/?id=2889856261 |
-| Weapon Modifiers                                  | https://steamcommunity.com/sharedfiles/filedetails/?id=2932853467 |
 | Noir's Rifle Slings                               | https://steamcommunity.com/sharedfiles/filedetails/?id=2786499395 |
+| Arsenal26 Gunfighter Mod                          | https://steamcommunity.com/sharedfiles/filedetails/?id=2297098490 |
+| Brita's Weapon Pack                               | https://steamcommunity.com/sharedfiles/filedetails/?id=2200148440 |
 
 ## Vehicle mods
 
@@ -124,7 +134,6 @@ __Take special note of the **Skill Limiter** mod. Here's how it works:__
 | Autotsar Motorclub                                | https://steamcommunity.com/sharedfiles/filedetails/?id=2778576730 |
 | Autotsar Trailers                                 | https://steamcommunity.com/sharedfiles/filedetails/?id=2282429356 |
 | Skateboard                                        | https://steamcommunity.com/sharedfiles/filedetails/?id=2728300240 |
-| Refined Hotwiring                                 | https://steamcommunity.com/sharedfiles/filedetails/?id=2687515849 |
 | RV Interior                                       | https://steamcommunity.com/sharedfiles/filedetails/?id=2822286426 |
 | Tread's Water Tank Trucks                         | https://steamcommunity.com/sharedfiles/filedetails/?id=2719592131 |
 | Containers                                        | https://steamcommunity.com/sharedfiles/filedetails/?id=2625625421 |
@@ -145,6 +154,8 @@ __Take special note of the **Skill Limiter** mod. Here's how it works:__
 | Herbal Medicine Plus                              | https://steamcommunity.com/sharedfiles/filedetails/?id=2891494114 |
 | Essential Crafting                                | https://steamcommunity.com/sharedfiles/filedetails/?id=2903127760 |
 | Sapph's Cooking                                   | https://steamcommunity.com/sharedfiles/filedetails/?id=2832136889 |
+| Clean dirt                                        | https://steamcommunity.com/sharedfiles/filedetails/?id=2711057211 |
+| That's It, I'm Weaving                            | https://steamcommunity.com/sharedfiles/filedetails/?id=2922138439 |
 
 ## UI mods
 
@@ -160,3 +171,7 @@ __Take special note of the **Skill Limiter** mod. Here's how it works:__
 | More Description for Traits                       | https://steamcommunity.com/sharedfiles/filedetails/?id=2685168362 |
 | Clothing Actions - Radial Menu                    | https://steamcommunity.com/sharedfiles/filedetails/?id=2786689104 |
 | Extra Map Symbols                                 | https://steamcommunity.com/sharedfiles/filedetails/?id=2701170568 |
+| Inspect Weapon                                    | https://steamcommunity.com/sharedfiles/filedetails/?id=2948824747 |
+| Equipment UI - Tarkov Style Interface             | https://steamcommunity.com/sharedfiles/filedetails/?id=2950902979 |
+| GunFighter Radial Menu                            | https://steamcommunity.com/sharedfiles/filedetails/?id=2884558190 |
+| Fix Inventory Tooltip Lag                         | https://steamcommunity.com/sharedfiles/filedetails/?id=2915430406 |
