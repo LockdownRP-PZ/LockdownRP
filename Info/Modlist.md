@@ -132,7 +132,6 @@ __Take special note of the **Skill Limiter** mod. Here's how it works:__
 | Agrotsar Farming Company                          | https://steamcommunity.com/sharedfiles/filedetails/?id=2728257015 |
 | Autotsar Motorclub                                | https://steamcommunity.com/sharedfiles/filedetails/?id=2778576730 |
 | Autotsar Trailers                                 | https://steamcommunity.com/sharedfiles/filedetails/?id=2282429356 |
-| Skateboard                                        | https://steamcommunity.com/sharedfiles/filedetails/?id=2728300240 |
 | RV Interior                                       | https://steamcommunity.com/sharedfiles/filedetails/?id=2822286426 |
 | Tread's Water Tank Trucks                         | https://steamcommunity.com/sharedfiles/filedetails/?id=2719592131 |
 | Containers                                        | https://steamcommunity.com/sharedfiles/filedetails/?id=2625625421 |
@@ -164,6 +163,8 @@ __Take special note of the **Skill Limiter** mod. Here's how it works:__
 | Better Sorting                                    | https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159 |
 | Unpack                                            | https://steamcommunity.com/sharedfiles/filedetails/?id=2244486781 |
 | Rename Containers                                 | https://steamcommunity.com/sharedfiles/filedetails/?id=2880687295 |
+| Reorder Containers - Backpack Orders              | https://steamcommunity.com/sharedfiles/filedetails/?id=2901962885 |
+| Reorder The Hotbar                                | https://steamcommunity.com/sharedfiles/filedetails/?id=2903771337 |
 | ExtraSauce Instant Consolidation                  | https://steamcommunity.com/sharedfiles/filedetails/?id=2593898609 |
 | Craft Helper Continued                            | https://steamcommunity.com/sharedfiles/filedetails/?id=2787291513 |
 | Everything Has A Name                             | https://steamcommunity.com/sharedfiles/filedetails/?id=2867163008 |
