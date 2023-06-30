@@ -45,10 +45,38 @@ So defense mechanisms, huh. There's healthy ones and not so healthy ones. People
 * *Reaction formation*: acting the opposite way that the unconscious instructs a person to behave, "often exaggerated and obsessive". For example, if a wife is infatuated with a man who is not her husband, reaction formation may cause her to – rather than cheat – become obsessed with showing her husband signs of love and affection.<sup>[19](https://en.wikipedia.org/wiki/Defence_mechanism#cite_note-Hock,_Roger_R_2013-19)</sup>
 * *Sublimation*: seen as the most acceptable of the mechanisms, an expression of anxiety in socially acceptable ways<sup>[19](https://en.wikipedia.org/wiki/Defence_mechanism#cite_note-Hock,_Roger_R_2013-19)</sup>
 
-## 5 ) Coming soon: Kill Your Darlings
+## 5 ) A Reminder that You are a Creator of Worlds.
 
-> The expression "kill your darlings" is a writing advice that encourages writers to remove or revise any beloved or cherished elements of their work that may not be serving the story or may be slowing it down. 
-> 
-> This advice is often used in creative writing, where writers may become attached to certain characters, scenes, or phrases that they feel are particularly well-written or meaningful. However, if these elements do not serve the overall purpose of the story, they may need to be "killed" or cut from the final draft. 
-> 
-> The expression is attributed to various authors and is often used to convey the importance of editing and revision in the writing process. Essentially, it means being willing to let go of anything that may be hindering the effectiveness of the story, even if it's something that the writer may have a personal attachment to.
+Originally, this section was called Kill Your Darlings which is common writing advice for chopping off even beloved parts of a piece of writing in order to make it better and more effective. That seems a little cold to me. We craft characters painstakingly here, we breathe life into them, we design their birth and their childhood and maybe their education, and at this point in the process they are within our **Total Control**. They could even die then, never to be seen or heard. But mostly they don't. Mostly they get approved.
+
+That's when things get both fun and difficult! Your character is being influenced by an entire World and not only that there are other characters eliciting emotions in your character, changing them permanently through interaction. You no longer have Total Control, you have **Partial Control**, and that can be a fun, beautiful, curious, scary ride. 
+
+But every single good story on this earth has an ending and endings vary. When it comes to the endings of someones life, it's almost always sooner than we want, before we could accomplish major character goals, or the source could be degrading or embarrassing (falling six stories in your underwear is hardly the death someone might opt for...). In short, we have **Very Little Control**. On this server we have various mechanisms in place to cushion the six story drop. Grace heals for those who are still grasping game mechanics. Close call tokens for those to opt out of at least one death they feel is narratively uninteresting. 
+
+Let's say we had unlimited close call tokens to use on every single narratively uninteresting/unsatisfying death. Well, because death itself is largely unsatisfying, rife with lost potential, lost hope, too-soons and broken relations, we could imagine that most deaths would fall under this category. But in this world and in most worlds, death isn't always a fanfare, it isn't always an old age send off or a last stand. Sometimes a person chokes to death on a hotdog. Or drives their car into a ditch. Or eats some old fish (How my second character died, thankyouverymuch, see below.) 
+
+I encourage you to put genuine importance on the stories you're creating, managed to create, and then zoom out from the story you created when dealing with a particular character's death. 
+
+By seeing the bigger picture of what I explored with a Character I can effectively continue grand narratives through other incarnations. 
+
+Here's some examples:
+
+### Mother Daughter Death Duo: 
+  *Diane Reeves, a mother, nearly died from zombies but survived, only to arrive at a Ranger camp, cook using rotten fish accidentally, and died of food poisoning before many could interact with her. She told stories to those around her about the life she lived, her pride in her children, and her hopes and dreams.*
+
+  *Her daughter, Merry Reeves  (my next character), arrived in town after she had died and continued on her mother's spirit of strength, rebellion, and resilience. Her mother's death shaped her, formed her with resentment and anger, and influenced how she interacted with people.*
+
+  *Merry died too, later in the season, infected, feverish, and regretful she couldn't do more. But she wouldn't be forgotten. Her send off was glorious compared to her mothers. But it would not have happened if her mom never died of a bit of rotten fish clumsily slopped into a stew.*
+
+
+### Unrelated Oddfellows: 
+  *Angela Weishaupt was a wonderful, burly, German communist who tried to advocate for a complete societal takeover of the city of Zion. She had strong hopes, strong passions, strong friendships, and strong rivalries. She was villainized and lionized. And she died in a train car protecting her friend before she could realize her dreams. She also had nobody who wanted to truly turn the City of Zion into the Soviet Sovereign Republic of Zion after her death, so that grand dream died with her. She has a rather glorious death, but even then, I was rather bitter and didn’t want her to die. But alas, she did and so ideas swirled.*
+
+  *Me, as the player, enjoyed the political roleplay and so I made Dick, a rather apolitical psychologist, happy as a clam doing mushrooms and wearing bellbottoms and helping folks out with their daily traumas. Eventually I knew I’d dip back into IG politics, but the refresh offered my brain a break. The bitterness I had towards losing Angela vanished as I fell in love with Doc Dick and my pride brimmed when he became a Councilman himself. Albeit an odd one.*
+
+  *If you asked me when Angela died whether I would have used a grace token, despite her death being a battle-death, gloriously acquired in protecting a friend of hers?  I would have in a heartbeat. But I am incredibly glad I neither had such a token nor the opportunity to have her survive that, because Dick came directly from the pain of losing Angela. I love them both dearly, their stories in retrospect played out exactly as they had to.*
+
+---
+So those are my little examples. All I ask is that you recognize yourself as a creator of characters, a creator of stories, a creator of worlds, and while we might not be able to schedule their departure, I want you to also look forward to the fact that every departure calls forward a new arrival. A new arrival that can plug away at the narrative landscape the prior never got to touch, or they might re-approach it in a fresh way based on vastly different life experiences. They’re nameless and vast, there’s more stories hidden in the future than we can count. 
+
+Don’t they deserve their time in the sun?
