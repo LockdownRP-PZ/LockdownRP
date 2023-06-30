@@ -62,21 +62,21 @@ By seeing the bigger picture of what I explored with a Character I can effective
 Here's some examples:
 
 ### Mother Daughter Death Duo: 
-  Diane Reeves, a mother, nearly died from zombies but survived, only to arrive at a Ranger camp, cook using rotten fish accidentally, and died of food poisoning before many could interact with her. She told stories to those around her about the life she lived, her pride in her children, and her hopes and dreams.
+  *Diane Reeves, a mother, nearly died from zombies but survived, only to arrive at a Ranger camp, cook using rotten fish accidentally, and died of food poisoning before many could interact with her. She told stories to those around her about the life she lived, her pride in her children, and her hopes and dreams.*
 
-  Her daughter, Merry Reeves  (my next character), arrived in town after she had died and continued on her mother's spirit of strength, rebellion, and resilience. Her mother's death shaped her, formed her with resentment and anger, and influenced how she interacted with people. 
+  *Her daughter, Merry Reeves  (my next character), arrived in town after she had died and continued on her mother's spirit of strength, rebellion, and resilience. Her mother's death shaped her, formed her with resentment and anger, and influenced how she interacted with people.*
 
-  Merry died too, later in the season, infected, feverish, and regretful she couldn't do more. But she wouldn't be forgotten. Her send off was glorious compared to her mothers. But it would not have happened if her mom never died of a bit of rotten fish clumsily slopped into a stew. 
+  *Merry died too, later in the season, infected, feverish, and regretful she couldn't do more. But she wouldn't be forgotten. Her send off was glorious compared to her mothers. But it would not have happened if her mom never died of a bit of rotten fish clumsily slopped into a stew.*
 
 
 ### Unrelated Oddfellows: 
-  Angela Weishaupt was a wonderful, burly, German communist who tried to advocate for a complete societal takeover of the city of Zion. She had strong hopes, strong passions, strong friendships, and strong rivalries. She was villainized and lionized. And she died in a train car protecting her friend before she could realize her dreams. She also had nobody who wanted to truly turn the City of Zion into the Soviet Sovereign Republic of Zion after her death, so that grand dream died with her. She has a rather glorious death, but even then, I was rather bitter and didn’t want her to die. But alas, she did and so ideas swirled.
+  *Angela Weishaupt was a wonderful, burly, German communist who tried to advocate for a complete societal takeover of the city of Zion. She had strong hopes, strong passions, strong friendships, and strong rivalries. She was villainized and lionized. And she died in a train car protecting her friend before she could realize her dreams. She also had nobody who wanted to truly turn the City of Zion into the Soviet Sovereign Republic of Zion after her death, so that grand dream died with her. She has a rather glorious death, but even then, I was rather bitter and didn’t want her to die. But alas, she did and so ideas swirled.*
 
-  Me, as the player, enjoyed the political roleplay and so I made Dick, a rather apolitical psychologist, happy as a clam doing mushrooms and wearing bellbottoms and helping folks out with their daily traumas. Eventually I knew I’d dip back into IG politics, but the refresh offered my brain a break. The bitterness I had towards losing Angela vanished as I fell in love with Doc Dick and my pride brimmed when he became a Councilman himself. Albeit an odd one. 
+  *Me, as the player, enjoyed the political roleplay and so I made Dick, a rather apolitical psychologist, happy as a clam doing mushrooms and wearing bellbottoms and helping folks out with their daily traumas. Eventually I knew I’d dip back into IG politics, but the refresh offered my brain a break. The bitterness I had towards losing Angela vanished as I fell in love with Doc Dick and my pride brimmed when he became a Councilman himself. Albeit an odd one.*
 
-  If you asked me when Angela died whether I would have used a grace token, despite her death being a battle-death, gloriously acquired in protecting a friend of hers?  I would have in a heartbeat. But I am incredibly glad I neither had such a token nor the opportunity to have her survive that, because Dick came directly from the pain of losing Angela. I love them both dearly, their stories in retrospect played out exactly as they had to.
+  *If you asked me when Angela died whether I would have used a grace token, despite her death being a battle-death, gloriously acquired in protecting a friend of hers?  I would have in a heartbeat. But I am incredibly glad I neither had such a token nor the opportunity to have her survive that, because Dick came directly from the pain of losing Angela. I love them both dearly, their stories in retrospect played out exactly as they had to.*
 
-
+---
 So those are my little examples. All I ask is that you recognize yourself as a creator of characters, a creator of stories, a creator of worlds, and while we might not be able to schedule their departure, I want you to also look forward to the fact that every departure calls forward a new arrival. A new arrival that can plug away at the narrative landscape the prior never got to touch, or they might re-approach it in a fresh way based on vastly different life experiences. They’re nameless and vast, there’s more stories hidden in the future than we can count. 
 
 Don’t they deserve their time in the sun?
